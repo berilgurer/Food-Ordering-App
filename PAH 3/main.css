@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-top-right {
+    background-color:#2f77d7;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+
+    float: right;
+    display: inline-block;
+    line-height: 25px;
+    margin: 5px 5px 5px 0;
+    background-color: #2f77d7;
+}
+
+.footer-link {
+    color: white;
+}
+
+.left-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.left-menu li {
+    padding-bottom: 10px !important;
+
+}
+
+.left-menu li a {
+    color: black;
+    text-decoration: none;
+}
+
+.product-image {
+    max-width: 100px;
+    max-height: 80px;
+    margin-left: 10px;
+}
